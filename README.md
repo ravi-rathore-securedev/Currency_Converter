@@ -8,7 +8,6 @@ This is a React Native application designed to convert currencies based on real-
 - Support for converting Indian Rupee (INR) to 50 other countries' currencies
 - User-friendly interface with intuitive controls
 - Option to select base and target currencies
-- History of recent conversions
 - Offline mode with cached exchange rates
 
 ## Installation
@@ -23,12 +22,11 @@ This is a React Native application designed to convert currencies based on real-
 4. Once the app is loaded on your device, you can start converting currencies with ease.
 
 ## Download
-You can download the APK file for Android devices from [here](#). *(Add your download link here)*
+You can download the APK file for Android devices from [here](https://drive.google.com/file/d/1N5gcfirf7h1V-27IGQP3L1RbBVcsQt3i/view?usp=sharing)
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![photo_2024-04-04_15-05-24](https://github.com/ravi-rathore-securedev/Currency_Converter/assets/115914121/07bea2c2-1c1b-4029-be66-7a68556a4ebc)
+
 
 ## Supported Currencies
 The following currencies are supported for conversion from Indian Rupee (INR):
@@ -82,17 +80,6 @@ The following currencies are supported for conversion from Indian Rupee (INR):
 48. Kenyan Shilling (KES)
 49. Sri Lankan Rupee (LKR)
 50. Nepalese Rupee (NPR)
-
-## Dependencies
-- React Native
-- Redux (optional, for state management)
-- Axios (for HTTP requests)
-
-## Structure
-- `src/components`: Contains reusable components used throughout the app.
-- `src/screens`: Contains screen components representing different views of the app.
-- `src/services`: Contains service functions for fetching exchange rates.
-- `src/store`: Contains Redux store configuration and actions.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
